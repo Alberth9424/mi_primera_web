@@ -21,6 +21,10 @@ header nav ul{
     list-style: none;
 }
 
+.greeting {
+    color: blue
+}
+
 /*Color de la letra de la barra de navegacion superior*/
 header nav ul li{
     color: black;
